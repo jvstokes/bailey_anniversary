@@ -1,0 +1,124 @@
+{
+    "dates": [
+        {
+            "title": "Three courses, three restaurants!",
+            "description": "Get your stomach ready, we're going to eat! Head downtown to the pikes place area. First stop: Ben Paris for appetizers. Next, head to the Pink Door for a main course. Finally, make your way to The Nest for a post dinner cocktail.",
+            "image": "date_images/dining.png",
+            "timeOfDay": ["Afternoon", "Evening"],
+            "duration": ["3-5 hours"],
+            "weather": ["1", "2"],
+            "Category": ["Dining", "Fancy"],
+            "location": "Downtown"
+        },
+        {
+            "title": "Paddle around Lake Union!",
+            "description": "You can swim, right? Grab some drinks and head down to Agua Verde. Once you get there, order a bag of chips and salsa then rent some paddleboards. Paddle out on Lake Union, and enjoy your chips and drinks in the middle of the lake! ",
+            "image": "date_images/paddleboard.jpeg",
+            "timeOfDay": ["Morning", "Afternoon"],
+            "duration": ["3-5 hours"],
+            "weather": ["1"],
+            "Category": ["Watersports"],
+            "location": "Lake Union"
+        },
+        {
+            "title": "Lighthouse Watercolor",
+            "description": "Hold on to your paint brushes! Bring watercolor supplies (or sketch pads) and head to the discovery park lighthouse. Drive down to the bottom, then make watercolor paintings of the lighthouse.",
+            "image": "date_images/lighthouse.jpeg",
+            "timeOfDay": ["Morning", "Afternoon"],
+            "duration": ["3-5 hours"],
+            "weather": ["1"],
+            "Category": ["Crafts"],
+            "location": "Discovery Park"
+        },
+        {
+            "title": "Trip to 'Couve",
+            "description": "Up for an adventure, eh? pack the car, call the hotels, and drive up to vancouver for the day. Once their, sprint to the Deja Vu night club and dance all night. Kick of next morning with a jog around Stanley park and a trip to Gastown.",
+            "image": "date_images/vancouver.jpeg",
+            "timeOfDay": ["Morning"],
+            "duration": ["Overnight"],
+            "weather": ["1", "2"],
+            "Category": ["Fancy"],
+            "location": "Vancouver, BC"
+        },
+        {
+            "title": "Starlight Camping Trip",
+            "description": "Far away from the city, deep in Snoqualmie Pass, the stars shine SO much brighter. Pack up Jackson's truck with blankets and firewood, and drive to a secret place with an incredible view ;)",
+            "image": "date_images/pass_spot.jpeg",
+            "timeOfDay": ["Morning", "Afternoon", "Evening"],
+            "duration": ["Overnight"],
+            "weather": ["1"],
+            "Category": ["Adventure"],
+            "location": "Snoqualmie Pass"
+        },
+        {
+            "title": "Write and Record a Song",
+            "description": "They say that love is like the most beautiful song you've ever heard. Today, we're gonna write and record our own song with whatever instruments or theme you'd like. If it's sunny, lets sit in the grass outside!",
+            "image": "date_images/song.jpeg",
+            "timeOfDay": ["Morning", "Afternoon", "Evening"],
+            "duration": ["1-2 hours"],
+            "weather": ["1", "2", "3"],
+            "Category": ["Crafts"],
+            "location": "Home"
+        },
+        {
+            "title": "Friday Night Lights",
+            "description": "Travel back in time to those high school football games! Look up schedules for local schools, and if available, go watch one of the games. Get dressed up in school colors, and don't forget to buy snacks when you get there!",
+            "image": "date_images/football.png",
+            "timeOfDay": ["Evening"],
+            "duration": ["1-2 hours"],
+            "weather": ["1", "2"],
+            "Category": ["Entertainment"],
+            "location": "Seattle"
+        },
+        {
+            "title": "Build a Wine Rack",
+            "description": "Go to the nearest safeway, get a pallet, go to the hardware store, and get tools and stain (and maybe rope!) Then, build your dream wine rack, following a tutorial online.",
+            "image": "date_images/winerack.jpeg",
+            "timeOfDay": ["Morning", "Afternoon", "Evening"],
+            "duration": ["1-2 hours", "3-5 hours"],
+            "weather": ["1", "2", "3"],
+            "Category": ["Crafts"],
+            "location": "Home"
+        },
+        {
+            "title": "Decor Surprise",
+            "description": "Go to Target, and pick out a piece of decor for eachother's room! The more thoughtful, or creative, the better.",
+            "image": "date_images/decor.jpeg",
+            "timeOfDay": ["Evening"],
+            "duration": ["1-2 hours"],
+            "weather": ["2", "3"],
+            "Category": ["Crafts"],
+            "location": "Home"
+        },
+        {
+            "title": "Go see a play!",
+            "description": "Get dressed up in fancy, formal attire and find a play nearby! Preferrably, get dinner before at an upscale restaurant.",
+            "image": "date_images/play.jpeg",
+            "timeOfDay": ["Evening"],
+            "duration": ["3-5 hours"],
+            "weather": ["2"],
+            "Category": ["Entertainment"],
+            "location": "Seattle"
+        },
+        {
+            "title": "Stay-in movie night",
+            "description": "Set up the mini projector, and drag over every blanket and pillow you can find! Then, go to the store and get your favorite movie snacks. All that's left is to cuddle up, pick a movie, and enjoy.",
+            "image": "date_images/play.jpeg",
+            "timeOfDay": ["Evening"],
+            "duration": ["1-2 hours"],
+            "weather": ["2", "3"],
+            "Category": ["Entertainment"],
+            "location": "Seattle"
+        },
+        {
+            "title": "Go see a play!",
+            "description": "Get dressed up in fancy, formal attire and find a play nearby! Preferrably, get dinner before at an upscale restaurant.",
+            "image": "date_images/play.jpeg",
+            "timeOfDay": ["Evening"],
+            "duration": ["3-5 hours"],
+            "weather": ["2"],
+            "Category": ["Entertainment"],
+            "location": "Seattle"
+        }
+    ]
+}

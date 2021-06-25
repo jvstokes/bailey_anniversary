@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Glass Website</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <main>
+      <section class="glass">
+        <div class="dashboard">
+          <div class="user">
+            <img src="./images/seattle.png" alt="" width="300" 
+            height="150"/>
+            <h3>Seattle Dates</h3>
+            <p>For my babygirl</p>
+          </div>
+          <div class="links">
+            <div class="link">
+              <img src="./images/home.png" width="50px" alt="" />
+              <h2>Home</h2>
+            </div>
+            <div class="link">
+              <img src="./images/camera.png" width="50px" alt="" />
+              <h2>Memories</h2>
+            </div>
+            <div class="link">
+              <img src="./images/plus.png" width="50px" alt="" />
+              <h2>Add Date</h2>
+            </div>
+            <div class="link">
+              <img src="./images/book.png" width="50px" alt="" />
+              <h2>Gallery</h2>
+            </div>
+          </div>
+          <div class="pro">
+            <h2>I love you so damn much.</h2>
+            <img width ="96px" height ="96px" src="./images/heart.gif" alt="" />
+          </div>
+        </div>
+        <div class="games">
+          <div class="status">
+            <h1>What'cha thinkin babez?</h1>
+            <div class="selectRow">
+              <select id ="timeOfDay" >
+                <option selected disabled="0">What time of day is it?</option>
+                <option value="Morning">Morning</option>
+                <option value="Afternoon">Afternoon</option>
+                <option value="Evening">Evening</option>
+              </select>
+            </div>
+            <div class="selectRow">
+              <select id ="duration">
+                <option selected disabled="0">Duration of date?</option>
+                <option value="1-2 hours">1-2 hours</option>
+                <option value="3-5 hours">3-5 hours</option>
+                <option value="6-10 hours">6-10 hours</option>
+                <option value="Overnight">Overnight</option>
+              </select>
+            </div>
+            <div class="selectRow">
+              <select id ="weather">
+                <option selected disabled="0">How's the weather?</option>
+                <option value="1">Great, lets get outside!</option>
+                <option value="2">So-so, lets go somewhere indoors</option>
+                <option value="3">Absolute bollocks bruv, lets stay in</option>
+              </select>
+            </div>
+            <div class="selectRow">
+              <select id ="special">
+                <option selected disabled="0">Any special requests?</option>
+                <option value="Adventure">I'm game for anything! 😎</option>
+                <option value="Exercise">Exercise 🏋️</option>
+                <option value="Entertainment">Entertainment</option>
+                <option value="Dining">Food 🍔</option>
+                <option value="Fancy">Fancy 💃</option>
+                <option value="Watersports">Water 🏄</option>
+                <option value="Crafts">Crafts ✂️</option>
+                <option value="Sexy">😉 </option>
+              </select>
+            </div>
+            
+            <button id="launch" type="button">
+                Find a date!                
+            </button>
+          
+          </div>
+          <div class="cards">
+            <div class="card">
+              <img id="card-img" width="250px" height="250px" src="./images/question.png" alt="" />
+              <div class="card-info">
+                <h2 id="card-title">Dream Mystery Date</h2>
+                <p id="card-desc">Select the options above to have a date randomly chosen for you!</p>
+                <p></p>
+              </div>
+              <div class="card-stats">
+                <h2 id ="card-dur" class="percentage">??? hours</h2>
+                <h2 id ="card-activity" class="percentage">Activity?</h2>
+                <h2 id ="card-loc" class="percentage">Location?</h2>
+              </div>
+              
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+    <div class="circle1"></div>
+    <div class="circle2"></div>
+  </body>
+</html>
